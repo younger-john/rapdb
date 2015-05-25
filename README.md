@@ -1,3 +1,3 @@
 # rapdb
-It is an auto scrawler that query osID.
-last get sequence of rap..
+It is private.
+It is an auto scrawler that query osID, then get sequence of rap at last..
